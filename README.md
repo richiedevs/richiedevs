@@ -3,5 +3,5 @@
 Here's some information about me:
 - 🔭 I’m currently working on Musico & MysticGuard
 - 🌱 I’m currently exploring what I can do with Electron and NodeJS
-- 📫 My discord is: Richiedev#5462
+- 📫 My discord is: Richiedevs#5462
 
